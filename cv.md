@@ -33,4 +33,4 @@ Economics and Programming, E-Business Economics
 
 ## Additional info
 ---
-Any cool stuff that makes you a super part of a software development team
+`Technology` `Computers` `Volunteering` `Sport` `Travel`
